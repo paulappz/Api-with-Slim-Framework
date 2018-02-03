@@ -5,7 +5,7 @@ The features of this application are:
 - Post
 - Get
 
-![alt text](https://github.com/paulappz/Api-with-Slim-Framework/blob/master/pixs.png)
+![alt text](https://github.com/paulappz/Api-with-Slim-Framework/blob/master/pix.png)
 
 # Installation
 Clone this repository
