@@ -11,12 +11,10 @@ The features of this application are:
 Clone this repository
 ```bash
 Configure database
-run on localhost or host on a server(Heroku)
 ```
 
 # Use
-Navigate to the URL logged in your preferred web browser. 
-You'll find test products that you can drag and drop into your cart. 
+Run on localhost or host on a server(Heroku) 
 
 If all went well, you should be able to make post and get request.
-#Updates comin soon!
+#Updates coming soon!
