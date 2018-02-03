@@ -5,7 +5,7 @@ The features of this application are:
 - Post
 - Get
 
-![alt text](https://avatars1.githubusercontent.com/u/19392238?s=400&u=fda3213836aa4da7cd4d0f9c0ab5a9a2eeca2be5&v=4)
+![alt text](https://github.com/paulappz/Api-with-Slim-Framework/blob/master/pixs.png)
 
 # Installation
 Clone this repository
